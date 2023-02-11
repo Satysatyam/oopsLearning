@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3300249a-90ee-4946-b9d2-c4eaf0dc1bbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopsLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningOops/Fraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningOops/FractionUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningOops/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningOops/StudentUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningOops/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningOops/person.java" afterDir="false" />
+    <list default="true" id="3300249a-90ee-4946-b9d2-c4eaf0dc1bbf" name="Changes" comment="new update">
+      <change afterPath="$PROJECT_DIR$/src/LearningOops/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LearningOops/DynamicArrayUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LearningOops2/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LearningOops2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LearningOops2/Vehicals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LearningOops2/VehicalsUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LearningOops2_Temp/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LearningOops2_Temp/VehicalsUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LearningOops/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearningOops/ComplexNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LearningOops/ComplexNumberUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearningOops/ComplexNumberUse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -49,6 +49,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="DynamicArrayUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LearningOops.DynamicArrayUse" />
+      <module name="oopsLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LearningOops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DynamicArrayUse" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +78,19 @@
       <option name="presentableId" value="Default" />
       <updated>1674290847537</updated>
     </task>
+    <task id="LOCAL-00001" summary="new update">
+      <created>1675069484134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675069484134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new update" />
+    <option name="LAST_COMMIT_MESSAGE" value="new update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
