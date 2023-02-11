@@ -7,7 +7,7 @@ public class VehicalsUse {
    public static void main(String[] args) {
       Vehicals V=new Vehicals();
 
-      V.maxSped=10;
+//      V.maxSped=10;
 
       Truck T=new Truck();
       T.maxCapacity=50;
