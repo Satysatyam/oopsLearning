@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3300249a-90ee-4946-b9d2-c4eaf0dc1bbf" name="Changes" comment="new update">
-      <change afterPath="$PROJECT_DIR$/src/LearningOops/DynamicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningOops/DynamicArrayUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningOops2/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningOops2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningOops2/Vehicals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningOops2/VehicalsUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningOops2_Temp/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningOops2_Temp/VehicalsUse.java" afterDir="false" />
+    <list default="true" id="3300249a-90ee-4946-b9d2-c4eaf0dc1bbf" name="Changes" comment="new update date11/02/23">
+      <change afterPath="$PROJECT_DIR$/src/LearingException/DivideByZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LearingException/ExceptionMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LearningOops/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearningOops/ComplexNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LearningOops/ComplexNumberUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearningOops/ComplexNumberUse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,12 +77,34 @@
       <option name="project" value="LOCAL" />
       <updated>1675069484134</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new update">
+      <created>1676126239954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676126239955</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new update">
+      <created>1676126285950</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676126285950</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new update date11/02/23">
+      <created>1676126366521</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676126366521</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new update" />
-    <option name="LAST_COMMIT_MESSAGE" value="new update" />
+    <MESSAGE value="new update date11/02/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="new update date11/02/23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
